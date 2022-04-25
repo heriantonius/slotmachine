@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "88DNzLgr1I2KCWvLg4Gwe4@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "win2",
+            "rect": {
+                "x": 0,
+                "y": 68,
+                "width": 1280,
+                "height": 505
+            },
+            "offset": {
+                "x": 0,
+                "y": -0.5
+            },
+            "originalSize": {
+                "width": 1280,
+                "height": 640
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

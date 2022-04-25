@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "05b8hkgrtD47mcqtIsAMvY@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "Arrow",
+            "rect": {
+                "x": 0,
+                "y": 150,
+                "width": 600,
+                "height": 300
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 600,
+                "height": 600
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

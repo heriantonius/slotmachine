@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "ad9RIa0dxA5LshBtoYQb3D@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "Star",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 2000,
+                "height": 1823
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 2000,
+                "height": 1823
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

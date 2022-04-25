@@ -1,0 +1,61 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-desktop",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-desktop"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1650851253588": {
+        "id": "1650851253588",
+        "progress": 1,
+        "state": "success",
+        "message": "4-25-2022 08:49 Build success in 5084 ms!",
+        "options": {
+          "name": "slotmachine",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "a9f34a23-0fe1-4cd4-a938-c660a5345411",
+          "scenes": [
+            {
+              "url": "db://assets/scene1.scene",
+              "uuid": "a9f34a23-0fe1-4cd4-a938-c660a5345411",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "b3b9d0",
+              "services": []
+            }
+          }
+        },
+        "time": "4-25-2022 08:49",
+        "dirty": false
+      }
+    }
+  }
+}

@@ -1,0 +1,502 @@
+debug: Sun, 24 Apr 2022 22:36:01 GMT
+debug: Project: C:\Users\Heri\slotmachine
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: C:\CocosDashboard_1.1.1\resources\.editors\Creator\3.4.2\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 2.68059999961406ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 2.1923000002279878ms.
+debug: Sync engine features: 2d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 7.560000000521541ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 5
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 07:00:06 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:06 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:21:41 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:11 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Apr 25 2022 04:09:44 GMT+0700 (Indochina Time), Current mtime: Mon Apr 25 2022 05:35:55 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Target(editor) ends with cost 110.27790000010282ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 07:00:06 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:06 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:21:42 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 07:00:11 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Mon Apr 25 2022 04:09:44 GMT+0700 (Indochina Time), Current mtime: Mon Apr 25 2022 05:35:55 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Target(preview) ends with cost 82.64520000014454ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:11 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:19:35 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 04:31:23 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:55:30 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 260.13130000047386ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 07:00:11 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:19:35 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 04:31:23 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:55:30 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 143.48029999993742ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:19:35 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:20:29 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:55:30 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:56:24 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 116.23799999989569ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:19:35 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:20:30 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:55:30 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:56:24 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 112.54619999974966ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:20:29 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:21:18 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:56:24 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:57:10 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 103.4281999990344ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:20:30 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:21:18 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:56:24 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:57:10 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 95.60269999876618ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:21:18 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:22:06 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:57:10 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:57:54 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 79.96310000121593ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:21:18 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:22:06 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:57:10 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 06:57:54 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 102.03309999965131ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:22:06 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:29:35 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:57:54 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:05:28 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 167.64399999938905ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:22:06 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:29:35 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 06:57:54 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:05:28 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 124.86669999919832ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:29:35 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:30:28 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:05:28 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:06:21 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 111.78729999996722ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:29:35 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:30:28 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:05:28 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:06:21 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 97.333599999547ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:28 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:32:34 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:06:21 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:08:27 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 87.68050000071526ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:28 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:32:34 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:06:21 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:08:27 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 89.54460000060499ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:32:34 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:34:21 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:08:27 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:10:08 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 99.19959999993443ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:32:34 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:34:21 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:08:27 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:10:08 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 157.0550999995321ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:34:21 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:35:03 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:10:08 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:10:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 172.08590000122786ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:34:21 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:35:03 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:10:08 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:10:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 120.75390000082552ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:35:03 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:37:22 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:10:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:13:16 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 102.451400000602ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:35:03 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:37:22 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:10:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:13:16 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 98.10040000081062ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:37:22 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:43:47 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:13:16 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:19:38 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 105.4031000006944ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:37:22 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:43:47 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:13:16 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:19:38 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 103.34159999899566ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:43:47 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:44:58 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:19:38 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:20:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 159.92640000022948ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:43:47 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 08:44:58 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:19:38 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:20:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 111.62419999949634ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:44:58 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 09:05:54 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:20:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:41:48 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 190.1972000002861ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:44:58 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 09:05:54 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:20:52 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:41:48 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 121.83100000023842ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:05:54 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 09:06:47 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:41:48 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:42:40 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 128.70869999937713ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:05:54 GMT+0700 (Indochina Time), Current mtime: Thu Jan 01 1970 09:06:47 GMT+0700 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/gameControl.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/rows.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/rows.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/spacerow.ts.
+debug: Resolve file:///C:/Users/Heri/slotmachine/assets/script/start.ts from cce:/internal/x/prerequisite-imports as file:///C:/Users/Heri/slotmachine/assets/script/start.ts.
+debug: Detected change: file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts. Last mtime: Mon Apr 25 2022 07:41:48 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a, Current mtime: Mon Apr 25 2022 07:42:40 GMT+0700 (Indochina Time)@98a89378-c1bd-4724-8a11-17f40212003a
+debug: Inspect file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///C:/Users/Heri/slotmachine/assets/script/Globals.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 124.56319999881089ms.

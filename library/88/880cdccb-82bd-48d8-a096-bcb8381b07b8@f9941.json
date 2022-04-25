@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "win2",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 68,
+      "width": 1280,
+      "height": 505
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 1280,
+      "height": 640
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "880cdccb-82bd-48d8-a096-bcb8381b07b8@6c48a",
+    "packable": true
+  }
+}

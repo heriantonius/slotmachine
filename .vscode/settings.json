@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/*.meta: true,": true,
+    "library/: true": true
+  },
+  "search.exclude": {
+    " \"temp/\": true": true,
+    "\"**/*.anim\": true": true,
+    "\"build/\": true": true,
+    "\"library/\": true": true
+  }
+}

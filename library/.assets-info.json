@@ -1,0 +1,186 @@
+{
+  "C:\\Users\\Heri\\slotmachine\\assets\\background.png.meta": {
+    "time": 1650698183087.0408
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\background.png": {
+    "time": 1650512907219.5095,
+    "uuid": "12d3633c-6de8-49cb-8984-a7d3fc54ce11",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\tranparent slot2.png.meta": {
+    "time": 1650699031984.0728
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\slotrow2.png.meta": {
+    "time": 1650699031994.82
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\tranparent slot2.png": {
+    "time": 1650699020109.8445,
+    "uuid": "a9b9f487-b849-4a46-9901-ade25efb9ce1",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\slotrow2.png": {
+    "time": 1650698842639.9133,
+    "uuid": "42d523af-5232-4492-bccb-2650fdb43694",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\scene1.scene.meta": {
+    "time": 1650699235109.813
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\scene1.scene": {
+    "time": 1650847826063.517,
+    "uuid": "a9f34a23-0fe1-4cd4-a938-c660a5345411",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script.meta": {
+    "time": 1650699446990.6362
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script": {
+    "time": 1650763825563.8362,
+    "uuid": "7689d6d5-9d36-4413-b752-0dceea4a9b3d",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\rows.ts.meta": {
+    "time": 1650700100203.1902
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\rows.ts": {
+    "time": 1650760514651.9033,
+    "uuid": "af1f0090-b1e6-4650-beac-054f486149e2",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\gameControl.ts.meta": {
+    "time": 1650735226092.333
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\gameControl.ts": {
+    "time": 1650761023583.8171,
+    "uuid": "6ee36290-793f-445b-bbf3-88001770a40e",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\spacerow.ts.meta": {
+    "time": 1650759000059.6191
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\spacerow.ts": {
+    "time": 1650767869936.9302,
+    "uuid": "0444dcb2-7da7-42de-931e-acd4999497e3",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\Globals.ts.meta": {
+    "time": 1650762573900.6067
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\Globals.ts": {
+    "time": 1650847360980.79,
+    "uuid": "98a89378-c1bd-4724-8a11-17f40212003a",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\start.png.meta": {
+    "time": 1650763784258.17
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\start.png": {
+    "time": 1650763752046.9512,
+    "uuid": "7ceeed9e-376a-41e4-aff6-7ec5312f432b",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\start.ts.meta": {
+    "time": 1650763825565.7913
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\script\\start.ts": {
+    "time": 1650764609609.15,
+    "uuid": "78085c50-1350-4a04-aaaa-07a0d6715308",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\background1.jpg.meta": {
+    "time": 1650842864176.6814
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\background1.jpg": {
+    "time": 1650842856386.2617,
+    "uuid": "44ab954e-b21c-45f1-9ea1-82eeade0ec3b",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\win1.png.meta": {
+    "time": 1650843408871.9556
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\win1.png": {
+    "time": 1650843400234.041,
+    "uuid": "c88c6b85-44af-42ff-9c09-4f78c01f0d2b",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\win2.png.meta": {
+    "time": 1650843547472.0583
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\win2.png": {
+    "time": 1650843538198.5286,
+    "uuid": "880cdccb-82bd-48d8-a096-bcb8381b07b8",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\jackpot.png.meta": {
+    "time": 1650843941526.7163
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\jackpot.png": {
+    "time": 1650843916627.4016,
+    "uuid": "92e1c3f4-1bf0-4e38-8255-6b17ab504d85",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\jackpot1.png.meta": {
+    "time": 1650844020746.074
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\jackpot1.png": {
+    "time": 1650843998406.6445,
+    "uuid": "c0866609-cace-4c01-8ea9-206840d09469",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Montserrat-ExtraBold.ttf.meta": {
+    "time": 1650844412094.872
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Montserrat-ExtraBold.ttf": {
+    "time": 1323709200000,
+    "uuid": "922de5c7-cab7-40ea-85a9-4a90d1dbdf1f",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\box.png.meta": {
+    "time": 1650844890045.5173
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\box.png": {
+    "time": 1650844874464.466,
+    "uuid": "e224a64d-a340-4053-900a-d9569c23a9cd",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Star.png.meta": {
+    "time": 1650846200085.3015
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Star.png": {
+    "time": 1650846112758.4026,
+    "uuid": "adf5121a-d1dc-40e4-bb21-06da1841bdc3",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Starblack.png.meta": {
+    "time": 1650846443690.7278
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Starblack.png": {
+    "time": 1650846436191.4866,
+    "uuid": "6288c6a7-51d1-4217-aab0-4781e4e9f3b6",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Arrow.png.meta": {
+    "time": 1650847070842.7954
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Arrow1.png.meta": {
+    "time": 1650847070857.452
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Arrow.png": {
+    "time": 1650847043802.7449,
+    "uuid": "056fc864-82bb-43e3-b99c-aad22c00cbd8",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\Arrow1.png": {
+    "time": 1650847061812.372,
+    "uuid": "e2f7ffd9-7bf6-453c-8463-783edcab9b5b",
+    "missing": false
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\cover.png.meta": {
+    "time": 1650847487554.4568
+  },
+  "C:\\Users\\Heri\\slotmachine\\assets\\cover.png": {
+    "time": 1650847478053.9983,
+    "uuid": "762c1e34-f86d-498f-b460-c1834562215e",
+    "missing": false
+  }
+}
